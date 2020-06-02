@@ -2,7 +2,7 @@
   "name": "vuepackscaffold",
   "version": "1.0.0",
   "description": "Mini scaffold vuejs and webpack",
-  "main": "index.js",
+  "main": "src/main.js",
   "scripts": {
     "dev": "webpack --config webpack.config.js --hide-modules",
     "server":"webpack-dev-server --color",
