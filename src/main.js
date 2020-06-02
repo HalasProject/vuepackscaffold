@@ -3,4 +3,4 @@ import App from './App.vue'
 
 new vue({
    render:h => h(App)
-}).$mount('body')
+}).$mount('#app')
